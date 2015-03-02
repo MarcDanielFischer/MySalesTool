@@ -11,7 +11,8 @@ public class SalesData {
 
 		int sum = 0;
 		for (int i: data) {
-			System.out.println("Next value: " + data[i]);
+//			System.out.println("Next value: " + data[i]); // now thats the wrong index usage, you dumbass fuckheads!
+			System.out.println("Next value: " + i); // this is how real men with huge cocks do it
 			sum += i;
 		}
 		
