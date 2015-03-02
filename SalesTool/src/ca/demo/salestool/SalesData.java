@@ -19,6 +19,10 @@ public class SalesData {
 		System.out.println("Sum is: " + sum);
 	}
 	
+	public void sayHello(){
+		System.out.println("Hello Hello there!!");
+	}
+	
 	public void newMethod(){
 		System.out.println("This is an example new methods");
 	}
