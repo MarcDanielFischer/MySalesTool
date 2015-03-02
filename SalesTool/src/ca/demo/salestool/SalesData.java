@@ -20,6 +20,6 @@ public class SalesData {
 	}
 	
 	public void newMethod(){
-		System.out.println("This is an example new method");
+		System.out.println("This is an example new methods");
 	}
 }
