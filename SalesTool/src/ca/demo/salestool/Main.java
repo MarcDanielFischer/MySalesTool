@@ -6,6 +6,8 @@ public class Main {
 
 		displayGreeting();
 		data.display();
+		
+		System.out.println("Wieder was neues");
 	}
 
 	private static void displayGreeting() {
